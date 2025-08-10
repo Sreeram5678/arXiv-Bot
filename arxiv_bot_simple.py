@@ -2,6 +2,10 @@
 """
 Simple ArXiv Bot - Complete implementation in a single file
 Automatically fetches ArXiv papers, summarizes them, and sends notifications
+
+Author: Sreeram Lagisetty
+Email: sreeram.lagisetty@gmail.com
+GitHub: https://github.com/Sreeram5678
 """
 
 import os

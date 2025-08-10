@@ -438,6 +438,14 @@ If you encounter issues:
 - **Hugging Face**: For open-source AI models
 - **Python Community**: For excellent libraries and tools
 
+## Author
+
+**Sreeram Lagisetty**
+
+- **Email**: [sreeram.lagisetty@gmail.com](mailto:sreeram.lagisetty@gmail.com)
+- **GitHub**: [Sreeram5678](https://github.com/Sreeram5678)
+- **Instagram**: [@sreeram_3012](https://www.instagram.com/sreeram_3012?igsh=N2Fub3A5eWF4cjJs&utm_source=qr)
+
 ---
 
 **Happy Research!** 🔬📚

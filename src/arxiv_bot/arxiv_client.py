@@ -1,6 +1,10 @@
 """
 ArXiv API client for fetching research papers
 Handles searching, filtering, and downloading papers from ArXiv
+
+Author: Sreeram Lagisetty
+Email: sreeram.lagisetty@gmail.com
+GitHub: https://github.com/Sreeram5678
 """
 
 import arxiv

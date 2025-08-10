@@ -1,6 +1,10 @@
 """
 Helper utilities for ArXiv Bot
 Common functions and utilities used across the application
+
+Author: Sreeram Lagisetty
+Email: sreeram.lagisetty@gmail.com
+GitHub: https://github.com/Sreeram5678
 """
 
 import os

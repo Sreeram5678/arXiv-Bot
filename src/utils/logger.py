@@ -1,6 +1,10 @@
 """
 Logging utilities for ArXiv Bot
 Configures structured logging with different levels and outputs
+
+Author: Sreeram Lagisetty
+Email: sreeram.lagisetty@gmail.com
+GitHub: https://github.com/Sreeram5678
 """
 
 import logging

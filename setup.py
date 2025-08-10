@@ -2,6 +2,10 @@
 """
 Setup script for ArXiv Bot
 Installs dependencies and sets up the environment
+
+Author: Sreeram Lagisetty
+Email: sreeram.lagisetty@gmail.com
+GitHub: https://github.com/Sreeram5678
 """
 
 import os

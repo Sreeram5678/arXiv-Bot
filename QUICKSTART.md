@@ -2,6 +2,11 @@
 
 Get your ArXiv research digest bot up and running in 5 minutes!
 
+**Author**: Sreeram Lagisetty  
+**Email**: sreeram.lagisetty@gmail.com  
+**GitHub**: [Sreeram5678](https://github.com/Sreeram5678)  
+**Instagram**: [@sreeram_3012](https://www.instagram.com/sreeram_3012?igsh=N2Fub3A5eWF4cjJs&utm_source=qr)
+
 ## 📋 Prerequisites
 
 - Python 3.8 or higher
@@ -224,3 +229,10 @@ Arxiv Bot/
 **Happy researching!** 🔬📚
 
 Your personal AI research assistant is ready to keep you updated with the latest papers!
+
+---
+
+**Author**: Sreeram Lagisetty  
+**Email**: sreeram.lagisetty@gmail.com  
+**GitHub**: [Sreeram5678](https://github.com/Sreeram5678)  
+**Instagram**: [@sreeram_3012](https://www.instagram.com/sreeram_3012?igsh=N2Fub3A5eWF4cjJs&utm_source=qr)
