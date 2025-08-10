@@ -5,6 +5,8 @@ Handles searching, filtering, and downloading papers from ArXiv
 Author: Sreeram Lagisetty
 Email: sreeram.lagisetty@gmail.com
 GitHub: https://github.com/Sreeram5678
+
+License: All rights reserved. Proprietary software.
 """
 
 import arxiv

@@ -5,6 +5,8 @@ Coordinates paper fetching, summarization, and notifications
 Author: Sreeram Lagisetty
 Email: sreeram.lagisetty@gmail.com
 GitHub: https://github.com/Sreeram5678
+
+License: All rights reserved. Proprietary software.
 """
 
 import sys

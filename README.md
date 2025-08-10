@@ -420,7 +420,11 @@ launchctl start com.arxivbot
 
 ## License
 
-This project is open source. Feel free to use, modify, and distribute according to your needs.
+This project is created and maintained by Sreeram Lagisetty. 
+
+**All rights reserved.** This software is proprietary and confidential. Unauthorized copying, distribution, or use of this software, via any medium, is strictly prohibited.
+
+For licensing inquiries, please contact: sreeram.lagisetty@gmail.com
 
 ## Support
 
