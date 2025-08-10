@@ -1,0 +1,49 @@
+# ArXiv Bot Configuration
+# Copy this file and customize for your needs
+
+arxiv:
+  categories:
+    - "cs.AI"      # Artificial Intelligence
+    - "cs.LG"      # Machine Learning
+    - "cs.CL"      # Computation and Language
+    - "stat.ML"    # Machine Learning (Statistics)
+  keywords:
+    - "transformer"
+    - "neural network"
+    - "deep learning"
+    - "machine learning"
+    - "artificial intelligence"
+  max_papers_per_day: 10
+  search_frequency: "daily"  # daily or weekly
+  days_lookback: 1
+
+summarizer:
+  model_name: "facebook/bart-large-cnn"
+  max_summary_length: 150
+  min_summary_length: 50
+  use_local_model: true
+  api_key: null  # For external APIs like OpenAI
+
+email:
+  enabled: true
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587
+  sender_email: "sreeram.lagisetty2727@gmail.com"
+  sender_password: "npvukhrveoqlpvvz"  # Use app password for Gmail
+  recipient_email: "sreeram.lagisetty27@gmail.com"
+  subject_prefix: "[ArXiv Digest]"
+
+telegram:
+  enabled: false
+  bot_token: ""  # Get from @BotFather
+  chat_id: ""    # Your chat ID or group ID
+
+slack:
+  enabled: false
+  webhook_url: ""  # Slack incoming webhook URL
+  channel: "#general"
+
+# Bot settings
+data_dir: "data"
+log_level: "INFO"
+timezone: "UTC"

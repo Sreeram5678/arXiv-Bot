@@ -1,0 +1,49 @@
+# ArXiv Bot Dependencies
+
+# Core dependencies
+arxiv==2.1.0                    # ArXiv API client
+feedparser==6.0.10             # RSS feed parsing (compatible with arxiv)
+requests==2.31.0               # HTTP requests
+
+# AI/ML for summarization
+transformers>=4.30.0           # Hugging Face transformers for open-source models
+torch>=2.0.0                   # PyTorch backend
+sentence-transformers>=2.2.0   # For semantic similarity and embeddings
+
+# Notification services
+python-telegram-bot==20.7      # Telegram bot API
+slack-sdk==3.26.1              # Slack API
+# smtplib is built-in for email
+
+# Configuration and environment
+python-dotenv==1.0.0           # Environment variable management
+pyyaml==6.0.1                  # YAML configuration files
+configparser==6.0.0            # INI configuration files
+
+# Scheduling and background tasks
+schedule==1.2.0                # Simple job scheduling
+apscheduler==3.10.4            # Advanced scheduling
+pytz==2023.3                   # Timezone support
+
+# Data processing and utilities
+pandas==2.1.4                  # Data manipulation
+beautifulsoup4==4.12.2         # HTML/XML parsing
+lxml==4.9.4                    # XML parser
+python-dateutil==2.8.2        # Date parsing utilities
+
+# PDF handling (optional)
+PyPDF2==3.0.1                  # PDF text extraction
+pypdf==3.17.0                  # Alternative PDF library
+
+# Logging and monitoring
+loguru==0.7.2                  # Advanced logging
+
+# Development and testing
+pytest==7.4.3                  # Testing framework
+pytest-asyncio==0.21.1         # Async testing
+pytest-cov==4.1.0              # Coverage testing
+
+# CLI and utilities
+click==8.1.7                   # Command line interface
+rich==13.7.0                   # Rich text and beautiful formatting
+colorama==0.4.6                # Cross-platform colored terminal text

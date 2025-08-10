@@ -1,0 +1,13 @@
+2025-08-10 00:24:22,874 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=cat%3Acs.AI&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
+2025-08-10 00:24:23,270 - arxiv - INFO - Got first page: 100 of 137279 total results
+2025-08-10 00:24:23,272 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=cat%3Acs.LG&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
+2025-08-10 00:24:26,975 - arxiv - INFO - Got first page: 25 of 228349 total results
+2025-08-10 00:24:26,977 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=cat%3Acs.CL&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
+2025-08-10 00:24:30,745 - arxiv - INFO - Got first page: 100 of 90069 total results
+2025-08-10 00:24:30,746 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=cat%3Astat.ML&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
+2025-08-10 00:25:08,292 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=cat%3Acs.AI&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
+2025-08-10 00:25:08,445 - arxiv - INFO - Got first page: 100 of 137279 total results
+2025-08-10 00:25:08,447 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=cat%3Acs.LG&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
+2025-08-10 00:25:10,086 - arxiv - INFO - Got first page: 100 of 72480 total results
+2025-08-10 00:25:11,909 - arxiv - INFO - Got first page: 25 of 228349 total results
+2025-08-10 00:25:11,911 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=cat%3Acs.CL&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
